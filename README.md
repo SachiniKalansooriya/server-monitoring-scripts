@@ -26,6 +26,9 @@ Monitors multiple servers using ping and HTTP checks and generates a report.
 - Logs every check with timestamp to logs/monitor.log
 
 **Sample output**
+
+<img width="1197" height="759" alt="image" src="https://github.com/user-attachments/assets/d2a7d694-3525-453d-9108-6fff1d7b1304" />
+
 ## HTTP Response Codes
 
 | Code | Meaning | Treated as |
