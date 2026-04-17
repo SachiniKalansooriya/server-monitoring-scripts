@@ -1,0 +1,7 @@
+[2026-04-17 18:10:28] OK: google.com is REACHABLE
+[2026-04-17 18:10:28] OK: github.com is REACHABLE
+[2026-04-17 18:10:28] OK: stackoverflow.com is REACHABLE
+[2026-04-17 18:10:28] OK: google.com HTTP 301
+[2026-04-17 18:10:28] OK: github.com HTTP 200
+[2026-04-17 18:10:28] OK: stackoverflow.com HTTP 302
+[2026-04-17 18:10:28] SUMMARY: 3 servers | UP: 3 | DOWN: 0
